@@ -41,6 +41,8 @@
 // #define kConsumableFeatureBId @"com.mycompany.myapp.005"
 // #define FishBasket @"FishBasket"
 
+#define kAdFree @"com.southuapps.wordfactory.adfree"
+
 #ifndef SERVER_PRODUCT_MODEL
     #define SERVER_PRODUCT_MODEL 0
 #endif
